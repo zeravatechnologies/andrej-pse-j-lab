@@ -44,7 +44,7 @@ Architecture: $ARCH
 Installed-Size: $SIZE
 Maintainer: Andrej Ristic <andrej.s.ristic@gmail.com>
 Depends: libc6 (>= 2.34), libgl1, libegl1, libfontconfig1, libxkbcommon0, libdbus-1-3
-Homepage: https://github.com/andrejristic/pse-j-lab
+Homepage: https://github.com/zeravatechnologies/andrej-pse-j-lab
 Description: PSE J-Lab - the Jacobian of small neural networks, five labs
  A PSE-governed desktop app with five labs on the input/parameter Jacobian of
  small neural networks (MNIST / FashionMNIST bundled). Exact Jacobians checked
